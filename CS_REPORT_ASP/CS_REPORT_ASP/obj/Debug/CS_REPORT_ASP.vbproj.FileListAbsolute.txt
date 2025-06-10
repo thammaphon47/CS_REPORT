@@ -1,0 +1,10 @@
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\bin\CS_REPORT_ASP.dll
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\bin\CS_REPORT_ASP.pdb
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\bin\CS_REPORT_ASP.xml
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\obj\Debug\CS_REPORT_ASP.Resources.resources
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\obj\Debug\CS_REPORT_ASP.vbproj.GenerateResource.Cache
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\obj\Debug\CS_REPORT_ASP.dll
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\obj\Debug\CS_REPORT_ASP.xml
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\obj\Debug\CS_REPORT_ASP.pdb
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\obj\Debug\CS_REPORT_ASP.vbprojResolveAssemblyReference.cache
+C:\Users\Thammaphon\Desktop\SHIPPING_REQ\CS_REPORT_ASP\CS_REPORT_ASP\bin\Oracle.DataAccess.dll
